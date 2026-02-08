@@ -18,16 +18,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustOndra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-</p>
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustOndra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
----
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=JustOndra&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=JustOndra&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JustOndra&layout=compact&theme=tokyonight)
 
 
 <p align="center">

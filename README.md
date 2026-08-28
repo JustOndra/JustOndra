@@ -1,27 +1,42 @@
+# Hi, I'm Ondra
 
-<h1 align="center">Hi there, I'm Ondra 👋</h1>
+I'm a **web developer & designer** from Czechia, focused on building practical, clean and maintainable web applications.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Software+Developer;Always+learning+new+things" alt="Typing SVG" />
-</p>
+I enjoy working across the stack, from designing interfaces to building APIs, databases and deployment infrastructure.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JustOndra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+### 🛠️ Tech I work with
 
-## 🚀 About Me
+**Frontend**
+TypeScript · React · Next.js · Tailwind CSS · Vite
 
-- 💻 Passionate software developer
-- 🌱 Always learning and exploring new technologies
-- 🎯 Focused on writing clean and efficient code
-- 🤝 Open to collaborating on interesting projects
+**Backend**
+Node.js · NestJS · PHP · C# / .NET
 
-## 📊 GitHub Stats
+**Data & APIs**
+PostgreSQL · SQL Server · Prisma · Supabase · tRPC · TanStack Query
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=JustOndra&theme=dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JustOndra&layout=compact&theme=dark)
+**Tools & Infrastructure**
+Git · Linux · Docker · Cloudflare · Vercel · Nginx
 
+### 🚀 What I like building
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
-</p>
+* Full-stack web applications
+* Internal tools and business software
+* SaaS products
+* Interactive web experiences
+* Clean, functional user interfaces
+* Automation that saves people from doing boring things manually
+
+### 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustOndra\&show_icons=true\&hide_border=true\&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustOndra\&layout=compact\&hide_border=true)
+
+### 🔨 Current focus
+
+I'm currently exploring and building with **TypeScript, Next.js, React and modern full-stack tooling**, while also spending an unreasonable amount of time tweaking Linux and development environments.
+
+---
+
+🌐 [justondra.dev](https://justondra.dev)

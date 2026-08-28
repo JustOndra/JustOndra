@@ -29,9 +29,10 @@ Git · Linux · Docker · Cloudflare · Vercel · Nginx
 
 ### 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustOndra\&show_icons=true\&hide_border=true\&rank_icon=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustOndra&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustOndra\&layout=compact\&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JustOndra&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JustOndra&theme=github_dark)
 
 ### 🔨 Current focus
 
